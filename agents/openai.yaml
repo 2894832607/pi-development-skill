@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pi Agent Development"
+  short_description: "Build Pi agents from official docs and source"
+  default_prompt: "Use $pi-development to design or implement this Pi-based agent change from current official docs and source."
